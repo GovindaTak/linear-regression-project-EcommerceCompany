@@ -24,4 +24,25 @@ This repository contains a solution to a linear regression project, where the ob
 ## How to Use
 
 1. Clone the repository:
-git clone https://github.com/yourusername/linear-regression-project.git
+git clone (https://github.com/GovindaTak/linear-regression-project-EcommerceCompany.git)
+
+2. Navigate into the directory:
+cd linear-regression-project-EcommerceCompany
+
+3. Install dependencies:
+pip install -r requirements.txt
+
+4. Run the Jupyter notebook to view the complete solution:
+jupyter notebook 03-Linear\ Regression\ Project\ -\ Solutions.ipynb
+
+
+## Special Thanks
+- **Sreejit**
+- **Sanjay**  
+for their mentorship throughout this project.
+
+---
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
